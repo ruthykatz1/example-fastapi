@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ff42038-32a2-4c9d-859c-5e5d0b5e77d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build-deploy" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-deploy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_request.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="200" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
@@ -355,7 +353,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25165126" />
